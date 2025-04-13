@@ -61,6 +61,9 @@ I'm a passionate software developer with a knack for building efficient, scalabl
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahipal-dhayal&layout=compact&theme=radical)
 
+![Top Langs](https://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/api/top-langs/?username=mahipal-dhayal&layout=compact&theme=radical)
+
+
 <!---
 mahipal-dhayal/mahipal-dhayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
