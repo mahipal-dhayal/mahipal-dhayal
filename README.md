@@ -48,6 +48,29 @@ I'm a passionate software developer with a knack for building efficient, scalabl
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
 </p>
 
+                                                        🏆 My Github Stats 🏆
+
+<!--
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahipal-dhayal&show_icons=true&theme=radical"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahipal-dhayal"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipal-dhayal&langs_count=10"> </p>
+-->
+
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahipal-dhayal&show_icons=true&theme=radical"></p>
+                  </th>
+                  <th>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahipal-dhayal"> </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipal-dhayal&langs_count=10"> </p>
+
+
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [mahipal-portfolio-omega.vercel.app](https://mahipal-portfolio-omega.vercel.app/)
